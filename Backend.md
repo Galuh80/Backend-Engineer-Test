@@ -3,7 +3,7 @@ Please organize, design, test, document, and deploy your code as if it were goin
 
 ## Challenge Description
 
-***Write a program that can price a cart of products from different cities in Indonesia, accept multiple products, combine offers, and display a total detailed invoice in Rupiah(Rp) as well.***
+***Write a program that can price a cart of products from different cities in Indonesia, accept multiple products, combine offers, and display a total detailed invoice in USD as well.***
 
 **(DO NOT HARDCODE ANY CALCULATED VALUES)**
 |Item type|Country|Item price|Weight|Rate |Shipping|VAT|
@@ -15,7 +15,7 @@ Please organize, design, test, document, and deploy your code as if it were goin
 |Jacket|US|$199.99|2.2|$2|$44|$27.9986|
 |Shoes|CN|$79.99|1.3|$2|$26|$11.1986|
 
-**Available catalog products** and their respective price in Rupiah(Rp) (regardless of the shipping country):
+**Available catalog products** and their respective price in USD (regardless of the shipping country):
 
 | Item type | Item price | Shipped from | Weight |
 | -------- | -------- | -------- |  -------- | 
@@ -93,8 +93,8 @@ Total: $271.9886
 ```
   
 ## Requirements
-1. PHP
-1. Stick to OO fundamentals in all aspects of your code. 
+1. Write the program using the programming language you are good at.
+1. Stick to Object Oriented fundamentals in all aspects of your code. 
 1. Stick to SOLID principles.
 1. Use pre-defined [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) whenever needed in your code. 
 1. Input should be via either (whatever suits you)

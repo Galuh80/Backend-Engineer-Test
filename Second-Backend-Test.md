@@ -3,9 +3,9 @@ Please organize, design, test, document, and deploy your code as if it were goin
 
 ## Challenge Description
 
-***Write a program that can price a cart of products from different countries, accept multiple products, combine offers, and display a total detailed invoice in USD as well.***
+***Write a program that can price a cart of books from different cities in Indonesia, accept multiple books and display a total detailed invoice as well.***
 
-**Available catalog products** and their respective price in USD (regardless of the shipping country):
+***You must use integrate with API raja ongkir : http://api.rajaongkir.com/dokumentasi/starter***
 
 | Id | Code | Name | Description |
 | -------- | -------- | -------- |  -------- | 
@@ -15,6 +15,7 @@ Please organize, design, test, document, and deploy your code as if it were goin
 1. Write the program using the programming language or **FRAMEWORK** you are good at.
 1. Stick to Object Oriented fundamentals in all aspects of your code. 
 1. Stick to SOLID principles.
+1. Dockerize your project.
 1. Use pre-defined [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) whenever needed in your code. 
 1. Input should be via either (whatever suits you)
 	1. The command line in the form `createCart --product='T-shirt' --product='Blouse' --product='Pants' --product='Shoes' --product='Jacket'`.

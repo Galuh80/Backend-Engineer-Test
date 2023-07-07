@@ -3,7 +3,7 @@ Please organize, design, test, document, and deploy your code as if it were goin
 
 ## Challenge Description
 
-***Write a program that can price a cart of products from different cities in Indonesia, accept multiple products, combine offers, and display a total detailed invoice in USD as well.***
+***Write a program that can price a cart of products from different countries, accept multiple products, combine offers, and display a total detailed invoice in USD as well.***
 
 **(DO NOT HARDCODE ANY CALCULATED VALUES)**
 |Item type|Country|Item price|Weight|Rate |Shipping|VAT|

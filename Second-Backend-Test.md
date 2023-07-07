@@ -19,6 +19,7 @@ Please organize, design, test, document, and deploy your code as if it were goin
 
 ## Requirements
 1. Write the program using the programming language or **FRAMEWORK** you are good at.
+1. Using Authenication(Login & Register).
 1. Stick to Object Oriented fundamentals in all aspects of your code. 
 1. Stick to SOLID principles.
 1. Dockerize your project.

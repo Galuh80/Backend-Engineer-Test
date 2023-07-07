@@ -101,11 +101,9 @@ Total: $271.9886
 	1. The command line in the form `createCart --product='T-shirt' --product='Blouse' --product='Pants' --product='Shoes' --product='Jacket'`.
 	1. **Or** a simple REST API.
 1. Write unit tests to cover your core code fully.
-1. No pseudo-code allowed. 
   
 ## Expected Deliverables
-1. Hosted repository for the program, link to it (e.g.
-Github, Bitbucket, etc.). **Reply** with the repo link to the **email** we sent.
+1. Hosted repository for the program, link to it with Github. **Reply** with the repo link to the **email** (galuh@semestaenergi.co.id darmawan.salihun@semestaenergi.co.id Suryo.prakoso@semestaenergi.co.id).
 1. Code should be well structured, suitably commented, have error handling, and be tested.
 1. README file, where you describe your solution (design and architecture), how to run the program. You can use pseudo-code here.
 

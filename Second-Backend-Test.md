@@ -7,9 +7,15 @@ Please organize, design, test, document, and deploy your code as if it were goin
 
 ***You must use integrate with API raja ongkir : http://api.rajaongkir.com/dokumentasi/starter***
 
+***Category Table***
 | Id | Code | Name | Description |
 | -------- | -------- | -------- |  -------- | 
 | 1 | TR1234 | Fiction | Sciene Fiction |
+
+***Book Table***
+| Id | Category Id | Title | Author | Description | Price
+| -------- | -------- | -------- |  -------- | -------- |  -------- | 
+| 1 | 1 | Harry Potter | J.K Rowling | Magic | 25.000
 
 ## Requirements
 1. Write the program using the programming language or **FRAMEWORK** you are good at.
